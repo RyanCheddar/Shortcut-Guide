@@ -2,6 +2,10 @@
 "guide.x": "x",
 "updater.nameselect": "Please select 'Shortcut Guide' in this list",
 "choose.option": "Please choose an option",
-"choose.guide": "Shortcut Guide - A guide to creating shortcuts",
+"choose.guide": "Shortcut Guide",
 "choose.utilities": "Useful Utilities",
+"guide.levelprompt": "Please select a guide",
+"guide.levelbasic": "Basic",
+"guide.leveladv": "Advanced",
+"guide.levelexp": "Expert",
 }
