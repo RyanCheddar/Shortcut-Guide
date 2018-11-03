@@ -13,10 +13,10 @@
   "all.sorry": "Sorry",
   "all.feature-unavaliable": "This feature is not avaliable yet.",
   "choose.lang": "Languages",
-  "update.alertheader": "Update avaliable"
-  "update.alert": "is avaliable for installation. Installing this update will give you "
-  "update.prompt": "Would you like to install this update?"
-  "update.yes": "Install"
-  "update.postpone": "Postpone until the next time this shortcut is opened"
-  "update.changelog": "Show Changelogs"
+  "update.alertheader": "Update avaliable",
+  "update.alert": "is avaliable for installation. Installing this update will give you ",
+  "update.prompt": "Would you like to install this update?",
+  "update.yes": "Install",
+  "update.postpone": "Postpone until the next time this shortcut is opened",
+  "update.changelog": "Show Changelogs",
 }
