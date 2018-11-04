@@ -1,1 +1,14 @@
-1.0: Initial Release
+Shortcut:
+1.0: First Version
+
+Guides:
+V.1: First Version
+
+Language File (English):
+V.1: First Version
+
+Language File (Chinese T.):
+Unavaliable
+
+Language File (Chinese S.):
+Unavaliable
