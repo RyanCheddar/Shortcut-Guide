@@ -1,11 +1,11 @@
-Shortcut:
-1.0: First Version
+Shortcut versions:
+V1: First Version
 
-Guides:
-V.1: First Version
+Guide revisions:
+G1: First Version
 
 Language File (English):
-V.1: First Version
+E1: First Version
 
 Language File (Chinese T.):
 Unavaliable
