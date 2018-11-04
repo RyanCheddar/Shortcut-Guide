@@ -1,5 +1,5 @@
 {
-  "lang.ver": "1",
+  "lang.ver": "E1",
   "guide.x": "x",
   "base64.prompt": "Please select the shortcut that you want to convert in this list",
   "choose.option": "Please choose an option",
@@ -20,4 +20,5 @@
   "update.yes": "Install",
   "update.postpone": "Postpone until the next time this shortcut is opened",
   "update.changelog": "Show Changelogs",
+  "changelog.currentver": "You're on this version ->",
 }
