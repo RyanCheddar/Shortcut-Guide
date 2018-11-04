@@ -20,7 +20,7 @@
   "update.yes": "Install",
   "update.postpone": "Postpone until the next time this shortcut is opened",
   "update.changelog": "Show Changelogs",
-  "changelog.currentver": "You're on this version ->",
+  "changelog.currentver": "Your version ->",
   "choose.options": "Options",
   "options.changelogs": "Changelogs",
 }
