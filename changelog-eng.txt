@@ -1,5 +1,6 @@
 Shortcut versions:
 V1: First Version
+V1.1: Test of the shortcut updater
 
 Guide revisions:
 G1: First Version
