@@ -18,7 +18,7 @@
   "update.alert": "is avaliable for installation. Installing this update will give you ",
   "update.prompt": "Would you like to install this update?",
   "update.yes": "Install",
-  "update.postpone": "Postpone until the next time this shortcut is opened",
+  "update.postpone": "Skip for now",
   "update.changelogs": "Show Changelogs",
   "changelog.currentver": "Your version ->",
   "choose.options": "Options",
