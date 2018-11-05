@@ -1,3 +1,5 @@
+Your version of Shortcut Guide is up-to-date.
+
 Shortcut versions:
 V1: First Version
 V1.1: Test of the shortcut updater
