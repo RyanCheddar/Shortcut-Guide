@@ -20,7 +20,6 @@
   "update.yes": "Install",
   "update.postpone": "Skip for now",
   "update.changelogs": "Show Changelogs",
-  "changelog.currentver": "Your version ->",
   "choose.options": "Options",
   "options.changelogs": "Changelogs",
 }
