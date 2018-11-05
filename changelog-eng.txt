@@ -1,8 +1,8 @@
 Your version of Shortcut Guide is up-to-date.
 
 Shortcut versions:
-V1: First Version
-V1.1: Test of the shortcut updater
+V0.1: Beta Version
+V0.2: Test of the shortcut updater
 
 Guide revisions:
 G1: First Version
