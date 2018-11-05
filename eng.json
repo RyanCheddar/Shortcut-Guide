@@ -19,7 +19,7 @@
   "update.prompt": "Would you like to install this update?",
   "update.yes": "Install",
   "update.postpone": "Postpone until the next time this shortcut is opened",
-  "update.changelog": "Show Changelogs",
+  "update.changelogs": "Show Changelogs",
   "changelog.currentver": "Your version ->",
   "choose.options": "Options",
   "options.changelogs": "Changelogs",
